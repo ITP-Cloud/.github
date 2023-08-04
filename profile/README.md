@@ -62,5 +62,5 @@ If you need help or have questions about the contribution process, feel free to 
 
 We appreciate your interest and contributions to our projects. Your involvement helps make our community more vibrant and diverse. Thank you for being part of our Organization!
 
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+<!--👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know? -->
 
