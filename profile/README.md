@@ -40,6 +40,9 @@ Before contributing, please review and abide by our [Code of Conduct](link-to-co
 
 9. Merge: After your pull request passes the review process and any required changes have been made, a maintainer will merge it into the main repository.
 
+
+<!--
+
 ### Guidelines for Contributions
 
 1. Respect the License: Make sure to understand and comply with the project's license before contributing. Only submit contributions that you have the right to provide under the project's license.
@@ -62,5 +65,5 @@ If you need help or have questions about the contribution process, feel free to 
 
 We appreciate your interest and contributions to our projects. Your involvement helps make our community more vibrant and diverse. Thank you for being part of our Organization!
 
-<!--👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know? -->
+👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know? -->
 
